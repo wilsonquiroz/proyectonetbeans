@@ -1,0 +1,15 @@
+<div class="container">
+  <br>
+  <marquee onmouseover="stop()" onmouseout="start()" scrolldelay="200" direction="up" crollamount="20" height="600px"> <center>
+		<img src="gef.jpg"  />
+    <br>
+    <img src="imagenes/GEF.jpg"  />
+    <img src="imagenes/gef.png"  />
+		<img src="imagenes/GALAX.jpg" />
+    <br>
+		<img src="imagenes/PUNTOBLANCO.jpg" />
+    <br>
+		<img src="imagenes/BABY.jpg"  />
+     </center> 
+</marquee>
+</div>
